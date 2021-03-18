@@ -8,6 +8,6 @@ Hi, I'm Davey👋🏻.
 
 🌱  **Giving back** Working on a personal project to help students at UNISA (University of South Africa).
 
-🏊 🏃 🚴  Training for half **ironman** 2021 October / Training for a full ironman 2022 March.
+🏊 🏃 🚴  Training for a half **ironman** 2021 October / full ironman 2022 March.
 
  🎯  Dream to 🏃 the ䷡ **Great Wall of China** ䷡ both ways 4200km.

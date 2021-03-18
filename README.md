@@ -1,4 +1,4 @@
-Hi, I'm Davey👋🏻.
+👋 I'm Davey.
 
 🛒  Change careers from retail to coding.
 

@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**siddav83/siddav83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Davey👋🏻.
 
-Here are some ideas to get you started:
+🛒 Change careers from retail to coding 👨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Graduated @ Le Wagon bootcamp. 👨
+
+💻 Coding in Rails. 
+
+📚 Studying JS & React.
+
+🌱 Giving back / Paying forward - Working on a personal project to help students at UNISA (University of South Africa) by providing answers to exam papers and show step-by-step   process to get to the answer.
+
+🏊 🏃 🚴  Training for half ironman 2021 October / Training for a full ironman 2022 March.
+
+ 🎯 Future goal => run the ䷡ GREAT WALL OF CHINA ䷡ both ways 4200km

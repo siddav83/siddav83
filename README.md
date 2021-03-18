@@ -10,4 +10,4 @@
 
 🏊 🏃 🚴  Training for a half **ironman** 2021 October / full ironman 2022 March.
 
-🎯  Dream to 🏃 the ䷡ **Great Wall of China** ䷡ both ways 4200km.
+🎯  Dream to 🏃 the ䷡ **Great Wall of China** ䷡

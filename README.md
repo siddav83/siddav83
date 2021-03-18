@@ -1,4 +1,4 @@
-Hi, **I'm Davey**👋🏻.
+Hi, I'm Davey👋🏻.
 
 🛒 Change careers from retail to coding 👨  🎓 Graduated @ **Le Wagon** bootcamp. 👨
 

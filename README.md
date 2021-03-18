@@ -10,4 +10,4 @@ Hi, I'm Davey👋🏻.
 
 🏊 🏃 🚴  Training for half **ironman** 2021 October / Training for a full ironman 2022 March.
 
- 🎯  Future goal 🏃 the ䷡ **Great Wall of China** ䷡ both ways 4200km.
+ 🎯  Dream to 🏃 the ䷡ **Great Wall of China** ䷡ both ways 4200km.

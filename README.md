@@ -1,8 +1,6 @@
 👋 I'm Davey.
 
-🛒  Change careers from retail to coding.
-
-🎓  Graduated @ **Le Wagon** bootcamp.
+🛒  Change careers from retail to coding . 🎓  Graduated @ **Le Wagon** bootcamp.
 
 💻  **Coding** in Rails.  📚 Studying Javascript & React.
 

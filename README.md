@@ -4,7 +4,7 @@ Hi, I'm Davey👋🏻.
 
 🎓  Graduated @ **Le Wagon** bootcamp.
 
-💻  **Coding** in Rails.  📚 Studying JS & React.
+💻  **Coding** in Rails.  📚 Studying Javascript & React.
 
 🌱  **Giving back** Working on a personal project to help students at UNISA (University of South Africa).
 

@@ -6,7 +6,7 @@
 
 💻  **Coding** in Rails.  📚 Studying Javascript & React.
 
-🌱  **Giving back** Working on a personal project to help students at UNISA (University of South Africa).
+🌱  Working on a personal project to help students at UNISA (University of South Africa).
 
 🏊 🏃 🚴  Training for a half **ironman** 2021 October / full ironman 2022 March.
 

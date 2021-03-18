@@ -1,10 +1,12 @@
 Hi, I'm Davey👋🏻.
 
-🛒 Change careers from retail to coding 👨  🎓 Graduated @ **Le Wagon** bootcamp. 👨
+🛒 Change careers from retail to coding 
+
+🎓 Graduated @ **Le Wagon** bootcamp.
 
 💻 **Coding** in Rails.  📚 Studying JS & React.
 
-🌱 **Giving back** Working on a personal project to help students at UNISA (University of South Africa) by providing answers to exam papers and show step-by-step   process to get to the answer.
+🌱 **Giving back** Working on a personal project to help students at UNISA (University of South Africa) 
 
 🏊 🏃 🚴  Training for half **ironman** 2021 October / Training for a full ironman 2022 March.
 

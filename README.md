@@ -1,17 +1,11 @@
-### Hi there 👋
+Hi, **I'm Davey**👋🏻.
 
-Hi, I'm Davey👋🏻.
+🛒 Change careers from retail to coding 👨  🎓 Graduated @ **Le Wagon** bootcamp. 👨
 
-🛒 Change careers from retail to coding 👨
+💻 **Coding** in **Rails**.  📚 Studying **JS** & **React**.
 
-🎓 Graduated @ Le Wagon bootcamp. 👨
+🌱 **Giving back** / Paying forward - Working on a personal project to help students at UNISA (University of South Africa) by providing answers to exam papers and show step-by-step   process to get to the answer.
 
-💻 Coding in Rails. 
+🏊 🏃 🚴  Training for half **ironman** 2021 October / Training for a full ironman 2022 March.
 
-📚 Studying JS & React.
-
-🌱 Giving back / Paying forward - Working on a personal project to help students at UNISA (University of South Africa) by providing answers to exam papers and show step-by-step   process to get to the answer.
-
-🏊 🏃 🚴  Training for half ironman 2021 October / Training for a full ironman 2022 March.
-
- 🎯 Future goal => run the ䷡ GREAT WALL OF CHINA ䷡ both ways 4200km
+ 🎯 Future goal => run the ䷡ **GREAT WALL OF CHINA** ䷡ both ways 4200km

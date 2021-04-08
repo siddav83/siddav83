@@ -2,7 +2,7 @@
 
 🛒  Change careers from retail to coding . 🎓  Graduated @ **Le Wagon** bootcamp.
 
-💻  **Coding** in Rails.  📚 Studying Javascript & React.
+💻  **Coding** in Rails. 
 
 🌱  Working on a personal project to help students at UNISA (University of South Africa).
 

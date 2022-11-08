@@ -21,10 +21,12 @@
 ---
 
 👋 I'm Davey / Dave
-       Traniee at AWESOME **Get Future Proof**
-- 🛒  Change careers from demand planning to coding . 🎓  Graduated @ **Le Wagon** bootcamp.
--      
 
+-      Traniee at AWESOME **Get Future Proof**
+-      
+- 🛒  Change careers from demand planning to coding . - 
+- 🎓  Graduated @ **Le Wagon** bootcamp.
+     
 - 💻  **Coding** in Javascript, React and Node.js 
 
 - 🏊 🏃 🚴 ysterman

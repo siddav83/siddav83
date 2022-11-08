@@ -22,9 +22,8 @@
 
 👋 I'm Davey / Dave
 
--      Traniee at AWESOME **Get Future Proof**
--      
-- 🛒  Change careers from demand planning to coding . - 
+- 🎓   Trainee @ **FUTUREPROOF** 
+- 🛒  Changed careers, from a demand planning manager to  a guy in tech.
 - 🎓  Graduated @ **Le Wagon** bootcamp.
      
 - 💻  **Coding** in Javascript, React and Node.js 

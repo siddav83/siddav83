@@ -14,23 +14,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h1>
   </div>
-  <div align="center">
-<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
-</div>
 
 ---
 
-👋 I'm Davey / Dave
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AD764&width=435&height=35&lines=Hi+I'm+Dave.)](https://git.io/typing-svg)
+### A bit about me.
 - 🎓   Trainee @ **FUTUREPROOF** 
 - 🛒  Changed careers, from a demand planning manager to  a guy in tech.
 - 🎓  Graduated @ **Le Wagon** bootcamp.
-     
-- 💻  **Coding** in Javascript, React and Node.js 
-
-- 🏊 🏃 🚴 ysterman
-- 🎯  🏊 the english channel 
-- 🎯  Dream to 🏃 the ䷡ **Great Wall of China** ䷡
+- 💻  **Coding** in Javascript, React and Node.js
+- 🎯  🏊 the english channel  & Dream to 🏃 the ䷡ **Great Wall of China** ䷡
 
 - mailbox: Reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Dave-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siddav83/)
 

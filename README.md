@@ -22,7 +22,7 @@
 - 🎓   Trainee @ **FUTUREPROOF** 
 - 🛒  Changed careers, from a demand planning manager to tech.
 - 🎓  Graduated @ **Le Wagon** bootcamp.
-- 💻  **Coding** in Javascript, React and Node.js
+- 💻  **Coding** in Javascript, React and Node.js, frontend testing with Cypress.js
 - 🎯  🏊 the english channel  & Dream to 🏃 the ䷡ **Great Wall of China** ䷡
 
 - mailbox: Reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Dave-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siddav83/)

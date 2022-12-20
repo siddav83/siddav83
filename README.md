@@ -42,6 +42,6 @@
 ### :fire: My Stats :
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=siddav83&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+<!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> -->
   
   <img src="https://komarev.com/ghpvc/?username=your-github-siddav83&style=flat-square&color=blue" alt=""/>

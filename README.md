@@ -19,8 +19,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AD764&width=435&height=35&lines=Hi+I'm+Dave.)](https://git.io/typing-svg)
 ### A bit about me.
-- 🎓   Trainee @ **FUTUREPROOF** 
+- 🎓   Junior developer @ **UCL** 
 - 🛒  Changed careers, from a demand planning manager to tech.
+ - 🎓   Graduated @ **FUTUREPROOF** 
 - 🎓  Graduated @ **Le Wagon** bootcamp.
 - 💻  **Coding** in Javascript, React and Node.js, frontend testing with Cypress.js
 - 🎯  🏊 the english channel  & Dream to 🏃 the ䷡ **Great Wall of China** ䷡

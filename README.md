@@ -19,7 +19,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AD764&width=435&height=35&lines=Hi+I'm+Dave.)](https://git.io/typing-svg)
 ### A bit about me.
-- 🎓   Junior developer @ **UCL** 
+- 🎓   Software Engineer @ **UCL** 
 - 🛒  Changed careers, from a demand planning manager to tech.
  - 🎓   Graduated @ **FUTUREPROOF** 
 - 🎓  Graduated @ **Le Wagon** bootcamp.

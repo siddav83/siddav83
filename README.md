@@ -31,7 +31,7 @@
 
 ### :fire: My Stats
 <div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=siddav83&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=siddav83&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/siddav83)
   
   <img src="https://komarev.com/ghpvc/?username=siddav83&style=flat-square&color=blue" alt="Profile Views"/>
 </div>

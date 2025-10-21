@@ -3,7 +3,7 @@
 </div>
 
 ### A bit about me
-- 🎓 Software Engineer @ **UCL** 
+- 🎓 Software Engineer @ **UCL** (since May, 2023)
 - 🛒 Changed careers from demand planning manager to tech
 - 🎓 Graduated @ **FUTUREPROOF** 
 - 🎓 Graduated @ **Le Wagon** bootcamp

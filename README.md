@@ -7,8 +7,8 @@
 - 🛒 Changed careers from demand planning manager to tech
 - 🎓 Graduated @ **FUTUREPROOF** 
 - 🎓 Graduated @ **Le Wagon** bootcamp
-- 💻 **Coding** in React, e2e testing with Selenium & Playwright
-- 🎯 🏊 Swimming the English Channel
+- 💻 **Coding** in React, Typescript and e2e testing with Selenium & Playwright
+
 
 ---
 

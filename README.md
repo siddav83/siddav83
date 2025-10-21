@@ -1,51 +1,37 @@
-<div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/siddav83/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/daveydawie">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AD764&width=435&height=35&lines=Hi+I'm+Dave.)" alt="Typing SVG" />
 </div>
 
-<!--   <h1>
-  hey there
-
-</h1> -->
-  </div>
-
-<!-- --- -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AD764&width=435&height=35&lines=Hi+I'm+Dave.)](https://git.io/typing-svg)
-### A bit about me.
-- 🎓   Software Engineer @ **UCL** 
-- 🛒  Changed careers, from a demand planning manager to tech.
- - 🎓   Graduated @ **FUTUREPROOF** 
-- 🎓  Graduated @ **Le Wagon** bootcamp.
-- 💻  **Coding** in React, e-2-e testing with selenium
-- 🎯  🏊 the english channel  & Dream to 🏃 the ䷡ **Great Wall of China** ䷡
-
-- mailbox: Reach out to me on <div text="align"></div>[![Linkedin Badge](https://img.shields.io/badge/-Dave-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siddav83/)
+### A bit about me
+- 🎓 Software Engineer @ **UCL** 
+- 🛒 Changed careers from demand planning manager to tech
+- 🎓 Graduated @ **FUTUREPROOF** 
+- 🎓 Graduated @ **Le Wagon** bootcamp
+- 💻 **Coding** in React, e2e testing with Selenium & Playwright
+- 🎯 🏊 Swimming the English Channel
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+### :hammer_and_wrench: Languages and Tools
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Materialui" alt="Materialui" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="ruby" alt="ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
-### :fire: My Stats :
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats
+<div align="center">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=siddav83&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> -->
   
-  <img src="https://komarev.com/ghpvc/?username=your-github-siddav83&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=siddav83&style=flat-square&color=blue" alt="Profile Views"/>
+</div>

@@ -6,7 +6,6 @@
 - 🎓 Software Engineer @ **UCL** (since May, 2023)
 - 🛒 Changed careers from demand planning manager to tech
 - 🎓 Graduated @ **FUTUREPROOF** 
-- 🎓 Graduated @ **Le Wagon** bootcamp
 - 💻 **Coding** in React, Typescript and e2e testing with Selenium & Playwright
 
 
